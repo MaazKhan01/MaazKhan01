@@ -4,7 +4,9 @@
 ## Hi there 👋
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaazKhan01&theme=meta-dark&currStreakNum=EB5454" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+
+()
 
 <!--
 **MaazKhan01/MaazKhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
