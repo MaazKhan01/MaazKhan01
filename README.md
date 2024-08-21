@@ -3,7 +3,7 @@
 </div>
 ## Hi there 👋
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaazKhan01&theme=meta-dark&currStreakNum=EB5454)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaazKhan01&theme=meta-dark&currStreakNum=EB5454" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
