@@ -4,9 +4,9 @@
  <h1> :fire: My Stats: </h1>
 <br/>
 <div align="center">
-<a href="https://git.io/streak-stats" style="display: block; text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaazKhan01&theme=meta-dark&currStreakNum=EB5454" alt="GitHub Streak" /></a>
+<a href="https://github.com/MaazKhan01" style="display: block; text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaazKhan01&theme=meta-dark&currStreakNum=EB5454" alt="GitHub Streak" /></a>
 <br/>
-<a href="https://git.io/streak-stats"style="display: block; text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+<a href="https://github.com/MaazKhan01"style="display: block; text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
 <br/>
 
