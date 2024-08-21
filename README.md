@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### :fire: <h1>My Stats :</h1>
+ <h1> :fire: My Stats :</h1>
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaazKhan01&theme=meta-dark&currStreakNum=EB5454" alt="GitHub Streak" /></a>
+<br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 
 <br/>
