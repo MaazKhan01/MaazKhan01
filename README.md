@@ -16,7 +16,7 @@
 <a href="https://github.com/MaazKhan01"style="display: block; text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKhan01&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
 
-- 🔭 I’m currently working on [Hayya](www.hayya.qa)
+- 🔭 I’m currently working on [Hayya](https://www.hayya.qa)
 
 - 🌱 I’m currently learning **dotnet framework**
 
